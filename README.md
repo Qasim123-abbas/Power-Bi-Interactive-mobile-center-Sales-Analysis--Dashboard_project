@@ -11,9 +11,13 @@ This project showcases an interactive Power BI dashboard designed to provide com
 **Table of the Contents**
 
 1.ETL Process
+
 2.Key Features
+
 3.Technologies Used
+
 4.DAX Measures
+
 5.Dashboard Pages 
 
 
