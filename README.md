@@ -10,7 +10,7 @@ This project showcases an interactive Power BI dashboard designed to provide com
 
 ## **Table of the Contents**
 
-1.[ETLPROCESS] (# ETL Process)
+1. # ETL Process
 
 2.Key Features
 
