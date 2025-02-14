@@ -8,9 +8,9 @@ Mobile Sales Analysis Dashboard
 **Project Overview**
 This project showcases an interactive Power BI dashboard designed to provide comprehensive insights into mobile sales data. The dashboard helps users identify trends, track sales performance, and derive actionable insights to support business decisions.
 
-## **Table of the Contents**
+**Table of the Contents**
 
-1. # ETL Process
+1. ETL Process
 
 2.Key Features
 
